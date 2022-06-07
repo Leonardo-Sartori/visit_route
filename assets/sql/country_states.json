@@ -1,0 +1,264 @@
+[
+    {
+      "id" : 92,
+      "name" : "Rondônia",
+      "code" : "RO"
+    },
+    {
+      "id" : 71,
+      "name" : "Acre",
+      "code" : "AC"
+    },
+    {
+      "id" : 74,
+      "name" : "Amazonas",
+      "code" : "AM"
+    },
+    {
+      "id" : 93,
+      "name" : "Roraima",
+      "code" : "RR"
+    },
+    {
+      "id" : 84,
+      "name" : "Pará",
+      "code" : "PA"
+    },
+    {
+      "id" : 73,
+      "name" : "Amapá",
+      "code" : "AP"
+    },
+    {
+      "id" : 97,
+      "name" : "Tocantins",
+      "code" : "TO",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "17",
+      "region_id" : null
+    },
+    {
+      "id" : 80,
+      "name" : "Maranhão",
+      "code" : "MA",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "21",
+      "region_id" : null
+    },
+    {
+      "id" : 88,
+      "name" : "Piauí",
+      "code" : "PI",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "22",
+      "region_id" : null
+    },
+    {
+      "id" : 76,
+      "name" : "Ceará",
+      "code" : "CE",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "23",
+      "region_id" : null
+    },
+    {
+      "id" : 90,
+      "name" : "Rio Grande do Norte",
+      "code" : "RN",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "24",
+      "region_id" : null
+    },
+    {
+      "id" : 85,
+      "name" : "Paraíba",
+      "code" : "PB",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "25",
+      "region_id" : null
+    },
+    {
+      "id" : 87,
+      "name" : "Pernambuco",
+      "code" : "PE",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "26",
+      "region_id" : null
+    },
+    {
+      "id" : 72,
+      "name" : "Alagoas",
+      "code" : "AL",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "27",
+      "region_id" : null
+    },
+    {
+      "id" : 96,
+      "name" : "Sergipe",
+      "code" : "SE",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "28",
+      "region_id" : null
+    },
+    {
+      "id" : 75,
+      "name" : "Bahia",
+      "code" : "BA",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "29",
+      "region_id" : null
+    },
+    {
+      "id" : 83,
+      "name" : "Minas Gerais",
+      "code" : "MG",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "31",
+      "region_id" : null
+    },
+    {
+      "id" : 78,
+      "name" : "Espírito Santo",
+      "code" : "ES",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "32",
+      "region_id" : null
+    },
+    {
+      "id" : 89,
+      "name" : "Rio de Janeiro",
+      "code" : "RJ",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "33",
+      "region_id" : null
+    },
+    {
+      "id" : 95,
+      "name" : "São Paulo",
+      "code" : "SP",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "35",
+      "region_id" : null
+    },
+    {
+      "id" : 86,
+      "name" : "Paraná",
+      "code" : "PR",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "41",
+      "region_id" : null
+    },
+    {
+      "id" : 94,
+      "name" : "Santa Catarina",
+      "code" : "SC",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "42",
+      "region_id" : null
+    },
+    {
+      "id" : 91,
+      "name" : "Rio Grande do Sul",
+      "code" : "RS",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "43",
+      "region_id" : null
+    },
+    {
+      "id" : 82,
+      "name" : "Mato Grosso do Sul",
+      "code" : "MS",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "50",
+      "region_id" : null
+    },
+    {
+      "id" : 81,
+      "name" : "Mato Grosso",
+      "code" : "MT",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "51",
+      "region_id" : null
+    },
+    {
+      "id" : 79,
+      "name" : "Goiás",
+      "code" : "GO",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "52",
+      "region_id" : null
+    },
+    {
+      "id" : 77,
+      "name" : "Distrito Federal",
+      "code" : "DF",
+      "create_uid" : 1,
+      "create_date" : "2021-01-18T05:13:58.880Z",
+      "write_uid" : 1,
+      "write_date" : "2021-12-14T16:00:28.766Z",
+      "ibge_code" : "53",
+      "region_id" : null
+    }]
+
+  
