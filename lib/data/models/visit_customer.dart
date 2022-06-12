@@ -1,5 +1,3 @@
-
-import 'package:visits_app/data/models/country_state.dart';
 import 'package:visits_app/data/models/customer.dart';
 import 'package:visits_app/data/models/visit.dart';
 import 'package:visits_app/utils/sql/entity.dart';
